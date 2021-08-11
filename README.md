@@ -1,4 +1,6 @@
 ### Hi there 👋, 
+[![Twitter Follow](https://img.shields.io/twitter/follow/2307vivek?color=1DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=2307vivek)
+
 ## Nice meeting you, I am [Vivek Singh][twitter]!
 - I am an **Android 📳 Developer**.
 - **22** year old 💂‍♂️.
