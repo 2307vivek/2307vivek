@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2307vivek)](https://github.com/2307vivek)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2307vivek?count_private=true)](https://github.com/2307vivek)
 
