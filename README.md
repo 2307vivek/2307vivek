@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-## Nice meeting you, I am Vivek Singh!
+## Nice meeting you, I am [Vivek Singh][twitter]!
 - I am an **Android 📳 Developer**.
 - **22** year old 💂‍♂️.
 - **Selfed learned** 👨‍🎓 developer.
@@ -15,7 +15,7 @@
 
 <br>
 
-### Languages and Tools:
+### Languages and ⚒ Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -23,11 +23,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
 
 ---
 
-### 📕Latest articles:
+### 📕 Latest articles:
 <!-- BLOG-POST-LIST:START -->
 - [Infinite Lists With Paging 3 in Jetpack Compose](https://proandroiddev.com/infinite-lists-with-paging-3-in-jetpack-compose-b095533aefe6?source=rss-ef2159d9abdc------2)
 - [Let’s Explore Jetpack DataStore](https://proandroiddev.com/lets-explore-jetpack-datastore-in-android-621f3564b57?source=rss-ef2159d9abdc------2)
@@ -35,6 +34,8 @@
 - [How to Use the Paging 3 Library in Android — Part 2](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-part-2-e2011070a37d?source=rss-ef2159d9abdc------2)
 - [How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8?source=rss-ef2159d9abdc------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2307vivek&count_private=true)](https://github.com/2307vivek)
 
