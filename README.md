@@ -4,7 +4,7 @@
 ## Nice meeting you, I am [Vivek Singh][twitter]!
 - I am an **Android 📳 Developer**.
 - **22** year old 💂‍♂️.
-- **Selfed learned** 👨‍🎓 developer.
+- **Self learned** 👨‍🎓 developer.
 - Mosttly working on **Andorid 📱 and Kotlin 💥**.
 - **Open source** ⭕ contributor.
 - Ask me about `Android` 📱, `Kotlin` 💥 and `Jetpack Compose` ♥❤.
