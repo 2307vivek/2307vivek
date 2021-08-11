@@ -7,6 +7,7 @@
 - **Self learned** 👨‍🎓 developer.
 - Mosttly working on **Andorid 📱 and Kotlin 💥**.
 - **Open source** ⭕ contributor.
+- I **write 📝 articles** on [medium.com][medium]
 - Ask me about `Android` 📱, `Kotlin` 💥 and `Jetpack Compose` ♥❤.
 
 ### Connect with me:
