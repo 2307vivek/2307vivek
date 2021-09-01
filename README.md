@@ -26,8 +26,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
-<br />
+
+---
 
 
 
@@ -40,10 +40,7 @@
 - [How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8?source=rss-ef2159d9abdc------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-<br />
-<br />
-
+---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2307vivek&count_private=true)](https://github.com/2307vivek)
 
