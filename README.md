@@ -27,7 +27,6 @@
 
 <br />
 
----
 
 ### 📕 Latest articles:
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +37,7 @@
 - [How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8?source=rss-ef2159d9abdc------2)
 <!-- BLOG-POST-LIST:END -->
 
----
+<br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2307vivek&count_private=true)](https://github.com/2307vivek)
 
