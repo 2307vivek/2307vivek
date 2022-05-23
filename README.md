@@ -47,5 +47,5 @@
 [twitter]: https://twitter.com/2307vivek
 [instagram]: https://www.instagram.com/2307vivek/
 [email]: mailto:2307vivek@gmail.com
-[medium]: https://medium.com/@2307vivek
+[medium]: https://medium.com/@vivvvek
 
