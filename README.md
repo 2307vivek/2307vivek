@@ -14,7 +14,9 @@
 [<img align="left" alt="@2307vivek | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Vivek Singh | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-<br>
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=2307vivek)
 
 ### Languages and ⚒ Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
