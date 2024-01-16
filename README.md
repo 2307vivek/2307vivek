@@ -3,7 +3,7 @@
 
 ## Nice meeting you, I am [Vivek Singh][twitter]!
 - Android Developer
-- Mostly working on **Andorid 📱 and Kotlin 💥**.
+- Mostly working on **Android 📱 and Kotlin 💥**.
 - Open source ⭕ contributor.
 - Tech writer on [medium.com][medium]
 - Ask me about `Android` 📱, `Kotlin` 💥 and `Jetpack Compose` ♥❤.
