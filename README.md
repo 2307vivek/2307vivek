@@ -1,5 +1,4 @@
 ### Hi there 👋, 
-[![Twitter Follow](https://img.shields.io/twitter/follow/2307vivek?color=1DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=2307vivek)
 
 ## Nice meeting you, I am [Vivek Singh][twitter]!
 - Android Developer
@@ -17,18 +16,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2307vivek)
 
-### Languages and ⚒ Tools:
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <br />
 
 ---
-
-
 
 ### 📕 Latest articles:
 <!-- BLOG-POST-LIST:START -->
