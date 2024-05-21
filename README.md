@@ -2,10 +2,9 @@
 
 ## Nice meeting you, I am [Vivek Singh][twitter]!
 - Android Developer
-- Mostly working on **Android 📱 and Kotlin 💥**.
+- Mostly working on **Android 📱 , Kotlin 💥 and Backend**.
 - Open source ⭕ contributor.
 - Tech writer on [medium.com][medium]
-- Ask me about `Android` 📱, `Kotlin` 💥 and `Jetpack Compose` ♥❤.
 
 ### Connect with me:
 [<img align="left" alt="@2307vivek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
